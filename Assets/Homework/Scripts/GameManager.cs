@@ -3,8 +3,8 @@ using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
-    [SerializeField] private int _totalCoins = 5;
-    [SerializeField] private float _levelTime = 30f;
+    [SerializeField] private int _totalCoins = 9;
+    [SerializeField] private float _levelTime = 40f;
 
     private int _collectedCoins = 0;
     private float _currentTime;
