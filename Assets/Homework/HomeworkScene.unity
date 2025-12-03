@@ -2399,7 +2399,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _totalCoins: 9
-  _levelTime: 50
+  _levelTime: 40
 --- !u!1001 &1242411741
 PrefabInstance:
   m_ObjectHideFlags: 0
